@@ -1,2 +1,2 @@
 # guojiacun
-good
+print('hello,word')
